@@ -1,0 +1,25 @@
+.nav{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(228, 211, 211);
+
+}
+.nav-1{
+    display: flex;
+}
+.logu{
+    margin-left: 200px;
+    margin-top: 15px;
+}
+@media screen (max-width:776px) {
+    .nav{
+        height: 50px;
+        width: 100%;
+    }
+    .foter{
+        height: 400px;
+        width: 900px;
+
+    }
+    
+}
